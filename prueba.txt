@@ -1,0 +1,3 @@
+contenido
+
+agrego uno y ejecuto git add
