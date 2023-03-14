@@ -1,7 +1,0 @@
-____contenido
-a
-agrego uno y ejecuto git add
-
-agrego una linea en la rama second
-
-mas texto en la rama third
